@@ -16,7 +16,7 @@
 
 ## Connect with me:
 [![website](https://img.shields.io/badge/web-A21432?style=for-the-badge&logo=globe&logoColor=white)](https://dlohani.com.np)
-[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/reactbits](https://www.youtube.com/results?search_query=gogthea))
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=gogthea)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/arorapranav187/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-rai-2aa66b238/)
 
