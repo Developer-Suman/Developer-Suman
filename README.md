@@ -1,3 +1,5 @@
+## 🆂🆄🅼🅰🅽 🅲🅷🅰🅼🅻🅸🅽🅶
+
 ### 𝗛𝘆 𝗧𝗵𝗲𝗿𝗲, 𝗜 𝗮𝗺 𝗕𝗮𝗰𝗸𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
 
 - 🔭 𝗜'𝗺 𝗖𝘂𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 𝗦𝗶𝗳𝗮𝗿𝗶𝘀
@@ -5,9 +7,9 @@
 - 💬 𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗢𝗿𝗲
 - 📫 𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲: 𝘀𝘂𝗺𝗮𝗻𝗲𝘆111@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺
 
-  ## 🆂🆄🅼🅰🅽 🅲🅷🅰🅼🅻🅸🅽🅶
 
-  ## Skills:
+
+## Skills:
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
