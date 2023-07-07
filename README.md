@@ -14,4 +14,6 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp; <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"></a> &nbsp; <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> &nbsp; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 
+ <a href="[https://tailwindcss.com/](https://learn.microsoft.com/en-us/dotnet/)" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.2jOYMim7RdeyGWJXu4dU2wHaHa?pid=ImgDet&rs=1" width="36" height="36" alt="DotNet" /></a>
+
   
