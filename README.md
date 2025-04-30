@@ -2,7 +2,7 @@
 
 ### 𝗛i 𝗧𝗵𝗲𝗿𝗲, 𝗜 𝗮𝗺 𝗕𝗮𝗰𝗸𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
 
-👋 Currently working on .NET 8, diving into CQRS and Minimal API with Clean Architecture. 🌱 Passionate learner of Oracle Database and C#. 💬 Ask me about ASP.NET Core development. ✉ Reach me at sumaneya111@gmail.com
+👋 Currently working on .NET 8, diving into CQRS and Minimal API with Clean Architecture. 🌱 Passionate learner of Oracle Database and C#. 💬 Ask me about ASP.NET Core development. ✉ Reach me at sumaney111@gmail.com
 
 
 
